@@ -1,0 +1,1 @@
+The first hash has the symbol x as a key and the second hash has the variable x as a key.
